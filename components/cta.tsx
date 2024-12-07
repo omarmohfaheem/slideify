@@ -21,8 +21,8 @@ export default function CTA() {
           </h1>
 
           <p className="max-w-xl mx-auto">
-            From documents to engaging presentations in minutes. Simplify your
-            workflow with Slideify.
+            From text or documents to engaging presentations in minutes.
+            Simplify your workflow with Slideify.
           </p>
           <div className="flex items-center justify-center gap-x-3 font-medium text-md">
             <NavLink
