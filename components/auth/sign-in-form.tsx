@@ -19,7 +19,7 @@ export default function SignInForm() {
               </NavLink>
               <div className="space-y-2">
                 <h3 className="text-gray-800 text-2xl font-bold sm:text-3xl">
-                  Log in to your account
+                  Sign in to your account
                 </h3>
                 <p className="">
                   Don&apos;t have an account?{" "}

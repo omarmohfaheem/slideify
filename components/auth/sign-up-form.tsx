@@ -27,7 +27,7 @@ export default function SignUpForm() {
                     href="/sign-in"
                     className="font-medium text-blue-600 hover:text-blue-500"
                   >
-                    Log in
+                    Sign in
                   </a>
                 </p>
               </div>
